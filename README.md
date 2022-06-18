@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brisk1117
 - 👀 I’m interested in ... Tactical Horror Shooters
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... C++ and secondarily Java on my own
 - 💞️ I’m looking to collaborate on ... Scripting and Direction
 - 📫 How to reach me ... riitoe1337@gmail
 
